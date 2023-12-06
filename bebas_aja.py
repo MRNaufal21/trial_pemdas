@@ -1,0 +1,2 @@
+print("itenas")
+print("informarika")
